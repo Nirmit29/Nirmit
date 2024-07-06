@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Nirmit Gupta</h1>
 <h3 align="center">Passionate Data Magician| Python & SQL Wizard | Converting Insights into Action | Empowering Data-Driven Decisions | Let's Transform Data into Success Together!🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://www.naukri.com/campus/career-guidance/wp-content/uploads/2023/11/what-is-data-science-1536x960.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmit29&label=Profile%20views&color=0e75b6&style=flat" alt="Nirmit29" /> </p>
+
 
 - 📍 I’m currently located in **India.**
 

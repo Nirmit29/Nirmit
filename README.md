@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Nirmit Gupta</h1>
-<h3 align="center">Passionate Data Magician| Python & SQL Wizard | Converting Insights into Action | Empowering Data-Driven Decisions | Let's Transform Data into Success Together!🚀</h3>
+<h3 align="center">Passionate Data Magician | Python & SQL Wizard | Converting Insights into Action | Empowering Data-Driven Decisions | Let's Transform Data into Success Together!🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg">
 
 

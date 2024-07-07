@@ -7,7 +7,7 @@
 
 - 🧠 I'm enthusiastic about **collaborating on data analysis projects.**
 
-- 👯 You can reach me via mobile & email at 8411003431 , nirmitgupta765@gmail.com
+- 👯 You can reach me via mobile & email at **8411003431** , nirmitgupta765@gmail.com
 
 - 🌱 I'm currently learning **Python, SQL, Machine learning, Power BI and Tableau - a dynamic combination for data analysis and visualization.**
 
